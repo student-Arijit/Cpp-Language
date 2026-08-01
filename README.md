@@ -1,4 +1,4 @@
-# 🚀 C++ DSA & Problem Solving Repository
+# C++ DSA & Problem Solving Repository
 
 A well-organized collection of Data Structures & Algorithms problems solved in **C++**, covering everything from basic syntax to advanced competitive programming concepts. This repository serves as a personal learning log and a reference resource for anyone preparing for coding interviews or competitive programming contests.
 
@@ -65,7 +65,7 @@ cpp-dsa-solutions/
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
 | Category | Topics |
 |---|---|
