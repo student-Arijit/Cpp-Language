@@ -20,13 +20,21 @@ void preorder(TreeNode* root) {
 }
 
 int main(void) {
-    TreeNode* root = new TreeNode(10);
+    /*
+            1
+          /   \
+         2     3
+        / \   / \
+       4   5 6   7
+    */
 
-    root->left = new TreeNode(20);
-    root->right = new TreeNode(30);
-    
-    root->left->left = new TreeNode(40);
-    root->left->right = new TreeNode(50);
+    TreeNode* root = new TreeNode(1);
+    root->left = new TreeNode(2);
+    root->right = new TreeNode(3);
+    root->left->left = new TreeNode(4);
+    root->left->right = new TreeNode(5);
+    root->right->left = new TreeNode(6);
+    root->right->right = new TreeNode(7);
 
     preorder(root);
 
