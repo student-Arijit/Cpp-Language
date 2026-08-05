@@ -1,7 +1,5 @@
-// Reverse level order traversal.
+// Print all non-leaf (internal) nodes.
 #include <iostream>
-#include <stack>
-#include <queue>
 using namespace std;
 
 class TreeNode {
