@@ -1,7 +1,5 @@
 // Print all leaf nodes of a binary tree.
 #include <iostream>
-#include <stack>
-#include <queue>
 using namespace std;
 
 class TreeNode {
