@@ -1,4 +1,4 @@
-// Count all non-leaf (internal) nodes.
+// Count all non-leaf (internal) nodes of a Binary Tree.
 #include <iostream>
 using namespace std;
 
