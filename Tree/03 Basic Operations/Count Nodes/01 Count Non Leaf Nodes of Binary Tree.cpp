@@ -1,4 +1,4 @@
-// Print all non-leaf (internal) nodes.
+// Count all non-leaf (internal) nodes.
 #include <iostream>
 using namespace std;
 
